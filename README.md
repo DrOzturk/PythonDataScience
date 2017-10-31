@@ -10,7 +10,7 @@ ex: `pycodestyle example-package/example.py`
 ## Setuptools
 - Command to Create the package to distribute in dist folder <ProjectName>-<version>.tar.gz (like dist/example_package-0.0.1.tar.gz)
 `python setup.py sdist`
-For More info type:
+- For More info type:
 `python setup.py --help-commands`
 
 - helps in module discovery using find_packages(), so we can refer to all modules without relative import
