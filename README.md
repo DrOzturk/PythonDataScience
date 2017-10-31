@@ -4,7 +4,7 @@ Starter data science project using Python with common dependencies included...  
 
 # Developer Tools
 ## Linting
-- pycodestyle <filename>: use to check if code complies with code style guide
+- pycodestyle <filename>: use to check if code complies with code style guide  
 ex: pycodestyle example-package/example.py
 
 ## Setuptools
