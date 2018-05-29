@@ -1,6 +1,3 @@
-import numpy as np
-
-
 def greater_than(given_array, threshold):
     '''
     :param given_array: numpy array to be evaluated
