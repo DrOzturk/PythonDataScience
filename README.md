@@ -47,3 +47,8 @@ python -m unittest -v example_package/tests/test_example.py`
 ```bash
 python -m unittest example_package.tests.test_example.TestExample.test_greater_than
 ```
+
+## Clean Compiled
+find . -type f -name "*.py[co]" -delete -or -type d -name "__pycache__" -delete
+
+.gitignore 
