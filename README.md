@@ -1,4 +1,7 @@
 # PythonDataScience with pipenv
+(If you are using PyCharm, pipenv may cause some difficulties.
+The fork for not using pipenv is here:https://github.com/DataSciencePros/PythonDataScience)
+
 Starter data science project using Python with common dependencies included...  
 Pull requests welcome...
 ```bash
